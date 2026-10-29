@@ -1,0 +1,19 @@
+id,question,answer,category
+faq_001,How do I reset my password?,Open the sign-in page and choose Forgot Password. Follow the instructions sent to your registered email.,account
+faq_002,I cannot log in to my account.,"Check that your email and password are correct. If you still cannot sign in, reset your password.",account
+faq_003,When does course registration open?,Course registration dates are announced before the start of each semester in the student portal.,registration
+faq_004,How can I contact the registrar?,Contact the registrar office through the official student support channel during working hours.,support
+faq_005,Where can I see my grades?,Sign in to the student portal and open the academic results or grades section.,academics
+faq_006,How do I pay my tuition?,Follow the payment instructions published by the institution and keep your payment receipt.,finance
+faq_007,I need help accessing the online learning platform.,Verify your account details and internet connection. Contact support if the platform remains unavailable.,support
+faq_008,How do I download my academic transcript?,Check the student portal for transcript services or ask the registrar office about the official process.,academics
+faq_009,How do I connect to campus Wi-Fi?,Ask campus IT support for the current Wi-Fi network name and login instructions. Use your authorized student credentials when required.,technology
+faq_010,Where do I find library e-books?,Open the university library website and look for electronic resources. Ask a librarian if access to a database fails.,library
+faq_011,How can I check my class timetable?,Open the registered courses or timetable section of the student portal. Contact your department about timetable conflicts.,academics
+faq_012,Where can I learn about scholarships?,"Review scholarship announcements through official university channels. Confirm eligibility, required documents and deadlines before applying.",finance
+faq_013,How do I get academic advising?,"First check your course plan and identify the subjects you are uncertain about. Prepare your current transcript, any prerequisites, and questions about next-semester registration. Then request an academic advising appointment using the official university process. Explain schedule conflicts or academic concerns clearly. Ask the advisor to confirm the next steps and any required approvals. Keep a note of the recommendations so you can follow up later.",academics
+faq_014,What should I do if I lose my student ID card?,"Report the loss to the appropriate campus office. Ask about replacement requirements, identity verification and any applicable fee.",campus
+faq_015,Can I use university computer labs?,Check the published lab schedule and usage rules. Ask your department or lab administrator about access permissions.,technology
+faq_016,How can I join student clubs?,Look for student-activity announcements or contact the campus student affairs office for currently active clubs and registration steps.,campus
+faq_003,When does course registration open?,Course registration dates are announced before the start of each semester in the student portal.,registration
+faq_017,Can I request an official enrollment letter?,,academics

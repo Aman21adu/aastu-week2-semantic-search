@@ -1,0 +1,12 @@
+# Virtual environments
+.venv/
+venv/
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Local generated Chroma vector store
+chroma_faq_db/
+# Environment secrets
+.env
+.env.*

@@ -22,7 +22,7 @@ aastu-week2-semantic-search/
 ├── requirements.txt                   # Required Python packages
 ├── README.md                          # This description and instructions
 ├── .gitignore                         # Excludes .venv and generated Chroma files
-└── SUBMISSION_STEPS.md                # Detailed GitHub / Colab upload checklist
+
 ```
 
 ## Run in Google Colab
